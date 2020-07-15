@@ -1,0 +1,11 @@
+{
+    "name": "DigitalServices/Account",
+    "description": "Manage Account For All Services",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DigitalServices\\Account\\": "src/"
+        }
+    }
+}
