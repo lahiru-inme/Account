@@ -16,4 +16,9 @@ class AccountServiceProvider extends ServiceProvider
     {
 
     }
+
+    public function test()
+    {
+        return 'HI This is Account service';
+    }
 }
