@@ -2,10 +2,13 @@
     "name": "digital-services/account",
     "description": "Manage Account For All Services",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "illuminate/support": "7.x-dev"
+    },
     "autoload": {
         "psr-4": {
             "DigitalServices\\Account\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
