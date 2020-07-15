@@ -1,5 +1,5 @@
 {
-    "name": "DigitalServices/Account",
+    "name": "digital-services/account",
     "description": "Manage Account For All Services",
     "minimum-stability": "dev",
     "require": {},
